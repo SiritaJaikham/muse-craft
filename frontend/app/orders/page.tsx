@@ -225,7 +225,7 @@ const INITIAL_ORDERS: Order[] = [
         desc: "21 CM, Premium ceramic",
         qty: 1,
         unitPrice: 255,
-        img: "/cart-pottery.jpg",
+        img: "/clock.jpg",
       },
     ],
     shippingFee: 45,
